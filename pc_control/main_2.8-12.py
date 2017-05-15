@@ -387,7 +387,7 @@ def serial_sender():
                         config["2"] = feedback["Y"]
 
                 line_old = line
-            except e:
+            except Exception as e:
                 pass
 
 
