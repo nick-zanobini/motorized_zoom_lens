@@ -1,8 +1,8 @@
 ### Python
 
 1. Install PyQT5:
-  * https://www.riverbankcomputing.com/software/pyqt/download5
-  or
+  * https://www.riverbankcomputing.com/software/pyqt/download5   
+  or
   * `pip3 install PyQt5`
 
 
