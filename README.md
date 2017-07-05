@@ -6,6 +6,7 @@
   * `pip3 install PyQt5`
 
 
+
 2. Install OpenCV 3.x
   * macOS: http://www.pyimagesearch.com/2016/12/05/macos-install-opencv-3-and-python-3-5/
   * Windows: http://docs.opencv.org/3.2.0/d5/de5/tutorial_py_setup_in_windows.html
@@ -13,9 +14,11 @@
   * Raspberry Pi: http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
 
 
+
 3. Install python packages:
   * pip install enum34
   * pip install pyserial
+  
   
 
 ### Images
